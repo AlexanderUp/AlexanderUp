@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexanderUp.
 - 👀 I’m interested in job in position Junior Python back-end developer.
 - 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on any back-end project.
+- 💞️ I’m looking to collaborate on any backend project.
 - 📫 How to reach me sanchezzz90210@yandex.ru
 
 <!---
